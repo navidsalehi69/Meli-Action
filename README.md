@@ -23,6 +23,8 @@
 
 ✅ دانلود فایل های نصبی گوگل پلی
 
+✅ دانلودر اسپاتیفای (spotify) و ساندکلود (soundcloud)
+
 دیگه چی لازم داری بهم تو قسمت issues خبر بده. (قول نمیدم بسازم ولی اگه جالب باشه و بدرد بقیه بخوره حتما میسازمش) 
 
 
@@ -89,4 +91,14 @@
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Kurdeus/Meli-Action&type=Date" />
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Kurdeus/Meli-Action&type=Date" />
  </picture>
+</a>
+
+
+
+### Credits
+
+Thank you to all the people who have contributed!
+
+<a href="https://github.com/Kurdeus/Meli-Action/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=Kurdeus/Meli-Action" alt="Meli-Action app contributors" title="Meli-Action app contributors" width="200"/>
 </a>
